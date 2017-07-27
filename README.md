@@ -45,11 +45,29 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
 
 
-2. Learn variables by creating few of them.
+2. Learn some Java syntax.
+
+  * Learn variables by creating few of them.
 
    Think about variables like about boxes with different size and forms.
    Some of them are good for storing one things, but not good for others and vice versa.
 
     ```java
         int integerNumber = 5;
+
+        /**
+        * This is variable. This one is very good for integer values.
+        * Key word is "int" which is part of Java syntax.
+        * It's name "integerNumber" which is chosen by creator and can be user for calling it again
+        * For example:
+        */
+
+        int imNewInteger = integerNumber + integerNumber;
+
+        /**
+        * The result will be 10 because as you remember value stored in "integerNumber" variable was 10.
+        *
+        */
+
+
     ```
