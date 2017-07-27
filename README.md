@@ -53,7 +53,7 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
    Some of them are good for storing one things, but not good for others and vice versa.
 
     ```java
-        int integerNumber = 5;
+    int integerNumber = 5;
     ```
 
     ```
