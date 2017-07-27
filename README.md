@@ -54,7 +54,9 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
 
     ```java
         int integerNumber = 5;
+    ```
 
+    ```
         /**
         * This is variable. This one is very good for integer values.
         * Key word is "int" which is part of Java syntax.
@@ -62,8 +64,11 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
         * For example:
         */
 
+    ```java
         int imNewInteger = integerNumber + integerNumber;
+    ```
 
+    ```
         /**
         * The result will be 10 because as you remember value stored in "integerNumber" variable was 10.
         *
