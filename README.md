@@ -68,6 +68,4 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
         * The result will be 10 because as you remember value stored in "integerNumber" variable was 10.
         *
         */
-
-
     ```
