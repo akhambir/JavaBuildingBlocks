@@ -16,11 +16,13 @@ We will move through three simple parts.
 
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_1.png)
 
-![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_10.png)
-
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_9.png)
 
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_10.png)
+
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_2.png)
+
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_7.png)
 
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_4.png)
 
