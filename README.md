@@ -26,4 +26,12 @@ We will move through three simple parts.
 
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_4.png)
 
-![](
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_8.png)
+
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_3.png)
+
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_5.png)
+
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
+
+
