@@ -65,8 +65,20 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
         int imNewInteger = integerNumber + integerNumber;
 
         /**
-        * The result will be 10 because as you remember value stored in "integerNumber" variable was 10.
+        * The result value inside "imNewInteger" will be 10.
+        * As you remember value stored in "integerNumber" variable was 5.
         *
+        * We can store and change values inside variables using "=" symbol.
+        * For example:
+        */
+
+        integerNumber = imNewInteger;
+
+        /**
+        * For this operation we dont need key word "int" in the beginning of the string.
+        * Both variables already created so we just reusing them by calling their names.
+        *
+        * The result was 10 inside both variables. 
         */
 
     ```
