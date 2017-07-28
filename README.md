@@ -165,3 +165,5 @@ Using "." you can create few packages in single operation.
     Hint: for printing variable use single line, single command and single variable of course.
 
     * In the end push "Run"
+
+![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_11.png)
