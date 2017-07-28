@@ -138,9 +138,30 @@ Using "." you can create few packages in single operation.
 
     UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
 
-    Name it as you wish but use noun
+    Name it as Solution
 
     ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
 
     The code challenge is:
 
+    * Inside Class scope write the method named "printMyVariables" with one argument "double".
+    * Create inside method scope another integer variable (key word "int").
+    * Copy and paste code below inside Class scope but not inside created method.
+
+    ```java
+        public static void main(String[] args) {
+                Solution solution = new Solution();
+                solution.printMyVariables(4.2);
+        }
+    ```
+
+    * Use command below for print your variables. For printing just copy and paste it inside created method
+    and put your variable around bracers.
+
+    ```java
+        System.out.println();
+    ```
+
+    Hint: for printing variable use single line, single command and single variable of course.
+
+    * In the end push "Run"
