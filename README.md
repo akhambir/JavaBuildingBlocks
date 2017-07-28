@@ -167,3 +167,10 @@ Using "." you can create few packages in single operation.
     * In the end push "Run"
 
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_11.png)
+
+
+
+   Valid program will print in console two lines. One with double value "4.2" another with your chosen integer value.
+   If you will see some errors then read again the page and try fix the problem.
+
+   Good luck!!!
