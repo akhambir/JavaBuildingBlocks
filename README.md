@@ -136,8 +136,6 @@ Using "." you can create few packages in single operation.
 
     ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_5.png)
 
-    UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
-
     Name it as Solution
 
     ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
