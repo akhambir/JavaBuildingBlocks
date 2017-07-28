@@ -121,9 +121,9 @@ Using "." you can create few packages in single operation.
         * (double imDouble) this is arguments, looks like creating variable. And yes inside method "doSomething"
         * we will have variable "imDouble". Value stored inside "imDouble" will be taken from calling place.
         * But againg it's another topic.
-        * Methods can have 0 to as much as you need number of arguments, but if you put more then 3 it looks ugly.
+        * Methods can have 0 to as much as you need number of arguments, but if you put more then 3 it will looks ugly.
         *
-        * {  } this bracers called scope. In our case is method scope.
+        * {  } this bracers called scope. In our case it is method scope.
         * Anything we put inside will be part of method's scope and will be executed when the method will be called.
         */
     ```
@@ -145,7 +145,7 @@ Using "." you can create few packages in single operation.
     The code challenge is:
 
     * Inside Class scope write the method named "printMyVariables" with one argument "double".
-    * Create inside method scope another integer variable (key word "int").
+    * Create inside method scope another integer variable (key word "int") with some value.
     * Copy and paste code below inside Class scope but not inside created method.
 
     ```java
@@ -156,7 +156,7 @@ Using "." you can create few packages in single operation.
     ```
 
     * Use command below for print your variables. For printing just copy and paste it inside created method
-    and put your variable around bracers.
+    and put variable around bracers.
 
     ```java
         System.out.println();
