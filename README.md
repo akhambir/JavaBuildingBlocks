@@ -36,18 +36,10 @@ Using "." you can create few packages in single operation.
 
 ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_3.png)
 
-Create new Class.
-
-![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_5.png)
-
-UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
-
-![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
-
 
 2. Learn some Java syntax.
 
-   ###### Learn variables by creating few of them.
+   Learn variables by creating few of them.
 
    Think about variables like about boxes with different size and forms.
    Some of them are good for storing one things, but not good for others and vice versa.
@@ -94,7 +86,7 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
     ```java
         double imDouble = 0.3;
 
-        char imChar = 'a';
+        char imCharacter = 'a';
 
         boolean imBoolean = false;  //boolean can be only true or false
 
@@ -106,7 +98,7 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
         */
     ```
 
-    ###### Now lets learn some methods
+    Now lets learn some methods.
 
     ```java
         public void doSomething(double imDouble) {
@@ -114,8 +106,41 @@ UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
         }
 
         /**
+        * There is method! Lets dive in some details.
+        * Methods it's places where we can put our code and call it after from some other part of the program.
+        * Explanation can be much more wider and deeper, but for now it is enough.
         *
+        * Let's check our example.
+        * "public" means this method visible anywhere in our appliation
         *
+        * "void" means the method will not return any result values.
+        * Yes we can count on some result values from the methods, but today we skip it.
         *
+        * "doSomething" this is method name which can be chosen by creator and should be very informative.
+        *
+        * (double imDouble) this is arguments, looks like creating variable. And yes inside method "doSomething"
+        * we will have variable "imDouble". Value stored inside "imDouble" will be taken from calling place.
+        * But againg it's another topic.
+        * Methods can have 0 to as much as you need number of arguments, but if you put more then 3 it looks ugly.
+        *
+        * {  } this bracers called scope. In our case is method scope.
+        * Anything we put inside will be part of method's scope and will be executed when the method will be called.
         */
     ```
+
+3. So now lets code something.
+
+    Write simple application
+
+    Create new Class.
+
+    ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_5.png)
+
+    UseCamelCaseForClassNamesStartingFromLeadCapitalLetter
+
+    Name it as you wish but use noun
+
+    ![](https://github.com/akhambir/JavaBuildingBlocks/blob/master/resources/img/icon_6.png)
+
+    The code challenge is:
+
